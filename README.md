@@ -42,7 +42,7 @@ First we need a mobile device. Refer to [Expo docs](https://docs.expo.dev) to se
 
 Nonetheless, the way I like to do it is by running an android emulator using [Android Studio](https://developer.android.com/studio).
 
-After starting the Anroid emulator, run the following:
+After starting the Android emulator, run the following:
 
 Using `npm`:
 ```
