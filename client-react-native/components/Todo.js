@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { ACTIONS, useTodosDispatch } from '../contexts/TodosContext'
+import { ACTIONS, useTodosDispatch } from '../context/TodosContext'
 import { StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { Icon } from '@rneui/themed';
 

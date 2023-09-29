@@ -4,7 +4,7 @@ import { Button, StyleSheet, View } from 'react-native';
 import Header from './components/Header';
 import AddTodo from './components/AddTodo';
 import TodoList from './components/TodoList';
-import { TodosProvider } from './contexts/TodosContext';
+import { TodosProvider } from './context/TodosContext';
 
 export default function App() {
 

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { useTodos, useTodosDispatch } from '../contexts/TodosContext'
+import { useTodos, useTodosDispatch } from '../context/TodosContext'
 import { FlatList, StyleSheet } from 'react-native';
 import Todo from './Todo';
 

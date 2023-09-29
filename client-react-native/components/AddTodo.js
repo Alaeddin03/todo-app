@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Button, StyleSheet, TextInput, View } from 'react-native'
-import { ACTIONS, useTodos, useTodosDispatch } from '../contexts/TodosContext';
+import { ACTIONS, useTodos, useTodosDispatch } from '../context/TodosContext';
 
 export default function AddTodo() {
 
