@@ -66,6 +66,7 @@ You should see the following UI:
     <img
         src="todo-ui-screenshot.png"
         alt="todo app ui"
+        width="300"
     />
 
 </p>
